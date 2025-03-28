@@ -1,0 +1,8 @@
+yfinance
+numpy
+pandas
+tensorflow
+scikit-learn
+matplotlib
+gym
+robin_stocks
